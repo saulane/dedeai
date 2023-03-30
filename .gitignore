@@ -1,0 +1,12 @@
+stable-diffusion-v2*
+stable-diffusion-v2*
+__pycache__
+ControlNet
+stable-diffusion-v1-5
+stable-diffusion-inpainting
+stable-diffusion-2-1
+stable-diffusion-2-1-unclip
+stable-diffusion-2-depth
+cuisine.jpg
+venv
+stable-diffusion*
